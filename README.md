@@ -36,23 +36,33 @@ Pickle
 📂 Project Structure
 Smart-Lender/
 │
+
 ├── dataset/
 │   └── loan_prediction.csv
 │
+
 ├── templates/
 │   └── index.html
 │
+
 ├── static/
 │   └── style.css
 │
+
 ├── training/
 │   └── loan_prediction.ipynb
 │
+
 ├── app.py
+
 ├── rdf.pkl
+
 ├── scale.pkl
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 
