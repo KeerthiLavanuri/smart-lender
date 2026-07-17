@@ -66,6 +66,8 @@ Smart-Lender/
 └── .gitignore
 
 
+
+
 📊 Dataset
 
 The dataset contains applicant information including:
@@ -84,6 +86,9 @@ Property Area
 Loan Status
 
 
+
+
+
 🔍 Data Preprocessing
 Handling missing values
 Encoding categorical variables
@@ -91,6 +96,8 @@ Feature transformation
 Data type conversion
 Feature scaling
 Dataset balancing using SMOTE
+
+
 
 
 📈 Exploratory Data Analysis
@@ -110,6 +117,8 @@ Heatmap
 Correlation Matrix
 
 
+
+
 🤖 Machine Learning Models
 
 The following algorithms were evaluated:
@@ -122,9 +131,13 @@ K-Nearest Neighbors (KNN)
 The best-performing model is saved using Pickle and used for predictions.
 
 
+
+
 🌐 Web Application
 
 The Flask application allows users to enter loan details through a web interface and predicts whether the loan will be approved.
+
+
 
 ⚙️ Installation
 
@@ -147,6 +160,8 @@ python app.py
 Open your browser
 
 http://127.0.0.1:5000/
+
+
 📊 Model Workflow
 Import Libraries
 Load Dataset
@@ -161,11 +176,8 @@ Model Training
 Model Evaluation
 Save Model
 Deploy using Flask
-📸 Screenshots
-Home Page
-Loan Prediction Form
-Prediction Result
-Data Analysis Graphs
+
+
 
 
 
