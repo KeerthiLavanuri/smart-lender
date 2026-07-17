@@ -141,9 +141,7 @@ The Flask application allows users to enter loan details through a web interface
 
 ⚙️ Installation
 
-Clone the repository
 
-git clone https://github.com/yourusername/Smart-Lender.git
 
 Move into the project folder
 
@@ -159,7 +157,6 @@ python app.py
 
 Open your browser
 
-http://127.0.0.1:5000/
 
 
 📊 Model Workflow
