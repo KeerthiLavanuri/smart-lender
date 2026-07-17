@@ -1,4 +1,6 @@
 Smart Lender - Loan Approval Prediction System
+
+
 📌 Project Overview
 
 Smart Lender is a Machine Learning-based web application that predicts whether a loan application is likely to be approved based on applicant details. The project uses data preprocessing, exploratory data analysis, feature engineering, SMOTE for class balancing, and classification algorithms to provide accurate loan approval predictions.
@@ -14,6 +16,8 @@ Feature scaling using StandardScaler
 Model training and evaluation
 Flask web application for prediction
 User-friendly interface
+
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -27,6 +31,8 @@ HTML
 CSS
 Bootstrap
 Pickle
+
+
 📂 Project Structure
 Smart-Lender/
 │
@@ -48,6 +54,8 @@ Smart-Lender/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
 📊 Dataset
 
 The dataset contains applicant information including:
@@ -64,6 +72,8 @@ Loan Amount Term
 Credit History
 Property Area
 Loan Status
+
+
 🔍 Data Preprocessing
 Handling missing values
 Encoding categorical variables
@@ -71,6 +81,8 @@ Feature transformation
 Data type conversion
 Feature scaling
 Dataset balancing using SMOTE
+
+
 📈 Exploratory Data Analysis
 
 The project performs:
@@ -86,6 +98,8 @@ Count Plot
 Swarm Plot
 Heatmap
 Correlation Matrix
+
+
 🤖 Machine Learning Models
 
 The following algorithms were evaluated:
@@ -96,6 +110,7 @@ Gradient Boosting Classifier
 K-Nearest Neighbors (KNN)
 
 The best-performing model is saved using Pickle and used for predictions.
+
 
 🌐 Web Application
 
